@@ -1,5 +1,4 @@
-# Tic-Tac-Toe Program using 
-# random number in Python 
+# Python implementation of automatic Tic Tac Toe game using random number
 
 # importing all necessary libraries 
 import numpy as np 
